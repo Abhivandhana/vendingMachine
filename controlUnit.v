@@ -18,7 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module ControlUnit(
+module controlUnit(
 	input CLK,
 	
 	input Start,input Return,input Manage,input Confirm,	//from User

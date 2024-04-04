@@ -18,7 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module DataPath(
+module dataPath(
 	 input CLK,input RST,
 	 input LD_A,input LD_B,input LD_C,input LD_D,input LD_E, input LD_CNT, input LD_MEM,
 	 input CD_D,input CD_CNT,
